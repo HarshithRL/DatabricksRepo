@@ -1,0 +1,93 @@
+﻿id,name,age,city
+1,John,25,New York
+2,Jane,30,Los Angeles
+3,David,35,Chicago
+4,Sarah,28,Miami
+5,Michael,32,Seattle
+6,Sarah,28,Miami
+7,Emma,40,San Francisco
+8,Brian,45,
+9,Emily,,Null
+10,Matthew,27,Houston
+11,John,26,Dallas
+12,Chris,31,Chicago
+13,Amy,29,Null
+14,Emily,27,Houston
+15,Michael,32,Seattle
+16,Olivia,33,New York
+17,John,25,Los Angeles
+18,David,35,Chicago
+19,Emma,40,San Francisco
+20,Brian,45,
+21,John,26,Dallas
+22,Emily,27,Houston
+23,Michael,32,Seattle
+24,Alex,30,Null
+25,John,25,Los Angeles
+26,David,35,Chicago
+27,Sarah,28,Miami
+28,Sarah,28,Miami
+29,Emma,40,San Francisco
+30,Brian,45,
+31,John,26,Dallas
+32,Chris,31,Chicago
+33,Amy,29,Null
+34,Emily,27,Houston
+35,Michael,32,Seattle
+36,Olivia,33,New York
+37,John,25,Los Angeles
+38,David,35,Chicago
+39,Emma,40,San Francisco
+40,Brian,45,
+41,John,26,Dallas
+42,Emily,27,Houston
+43,Michael,32,Seattle
+44,Alex,30,Null
+45,John,25,Los Angeles
+46,David,35,Chicago
+47,Sarah,28,Miami
+48,Sarah,28,Miami
+49,Emma,40,San Francisco
+50,Brian,45,
+51,John,26,Dallas
+52,Chris,31,Chicago
+53,Amy,29,Null
+54,Emily,27,Houston
+55,Michael,32,Seattle
+56,Olivia,33,New York
+57,John,25,Los Angeles
+58,David,35,Chicago
+59,Emma,40,San Francisco
+60,Brian,45,
+61,John,26,Dallas
+62,Emily,27,Houston
+63,Michael,32,Seattle
+64,Alex,30,Null
+65,John,25,Los Angeles
+66,David,35,Chicago
+67,Sarah,28,Miami
+68,Sarah,28,Miami
+69,Emma,40,San Francisco
+70,Brian,45,
+71,John,26,Dallas
+72,Chris,31,Chicago
+73,Amy,29,Null
+74,Emily,27,Houston
+75,Michael,32,Seattle
+76,Olivia,33,New York
+77,John,25,Los Angeles
+78,David,35,Chicago
+79,Emma,40,San Francisco
+80,Brian,45,
+81,John,26,Dallas
+82,Emily,27,Houston
+83,Michael,32,Seattle
+84,Alex,30,Null
+85,John,25,Los Angeles
+86,David,35,Chicago
+87,Sarah,28,Miami
+88,Sarah,28,Miami
+92,Chris,31,Chicago
+89,Emma,40,San Francisco
+91,John,26,Dallas
+90,Brian,45,
