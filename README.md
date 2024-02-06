@@ -1,5 +1,5 @@
 # DatabricksRepo
-DatabricksRepo Assignment
+DatabricksRepo Practice
 
 * Created a Databricks cluster
 
@@ -26,3 +26,11 @@ DatabricksRepo Assignment
 
 
 * Created a function to write file
+
+# Widgets
+
+
+* Widgets in Databricks-Python-Notebook
+
+
+* Widgets in Databricks-SQL-Notebook
